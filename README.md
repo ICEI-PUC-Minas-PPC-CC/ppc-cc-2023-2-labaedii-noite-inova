@@ -15,5 +15,5 @@
 |  :----:   | ----------- |
 | ETAPA 1 | Definição dos problemas e formação das equipes |
 | ETAPA 2 | <a href="docs/1-Documentacao-contexto.md"> Documentação de Contexto</a>
-| ETAPA 3 | Entrega das Structs das Entidades do Projeto |
+| ETAPA 3 | <a href="docs/Especificações do Projeto.md">Entrega das Structs das Entidades do Projeto</a>
 
