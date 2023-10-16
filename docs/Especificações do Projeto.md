@@ -8,6 +8,7 @@ Armazenar informações sobre uma conta específica, incluindo nome de usuário,
 - char nome_usuario: O nome de usuário da conta.
 - char senha_criptografada: A senha criptografada da conta.
 
+
 ## Gerenciador de Senhas
 
 ### Objetivo: 
