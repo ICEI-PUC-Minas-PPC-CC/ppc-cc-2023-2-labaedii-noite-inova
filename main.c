@@ -9,7 +9,7 @@ void exibirMenu(struct GerenciadorSenhas* gerenciador) {
         printf("1. Adicionar Conta\n");
         printf("2. Listar Contas\n");
         printf("3. Sair\n");
-        printf("Digite a opção desejada: ");
+        printf("Digite a opcao desejada: ");
         scanf("%d", &opcao);
 
         switch (opcao) {
@@ -22,7 +22,7 @@ void exibirMenu(struct GerenciadorSenhas* gerenciador) {
             case 3:
                 return;
             default:
-                printf("Opção inválida. Tente novamente.\n");
+                printf("Opaco invalida. Tente novamente.\n");
         }
     }
 }
@@ -36,7 +36,7 @@ void adicionarConta(struct GerenciadorSenhas* gerenciador) {
         gerenciador->num_contas++;
         printf("Conta adicionada com sucesso!\n");
     } else {
-        printf("Limite de contas alcancada. Nao foi possível adicionar a conta.\n");
+        printf("Limite de contas alcancada. Nao foi possivel adicionar a conta.\n");
     }
 }
 
